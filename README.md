@@ -1,5 +1,5 @@
 ﻿# Cache-Effects
-Experiment 1 gives a simple demonstration of Cache effects on my CPU to determine the size of the cache.  
+Experiment 1 gives a simple demonstration of Cache effects on my CPU to approximate & verify the size of the cache.  
 Experiment 2 compares the time taken to access elements of an array as its size increases.  
 Experiment 3 compares the traversal times between an array, linked list & unrolled linked list.  
   
